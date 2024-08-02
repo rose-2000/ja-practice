@@ -1,0 +1,2 @@
+# ja-practice
+javscript study
